@@ -9,654 +9,6 @@
       "PackagePath": "staticwebassets\\clone\\index.html"
     },
     {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\css\\css_admin\\app.min.css",
-      "PackagePath": "staticwebassets\\css\\css_admin\\app.min.css"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\css\\css_admin\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\css_admin\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\css\\css_admin\\icons.min.css",
-      "PackagePath": "staticwebassets\\css\\css_admin\\icons.min.css"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\css\\css_client\\font-icons.css",
-      "PackagePath": "staticwebassets\\css\\css_client\\font-icons.css"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\css\\css_client\\plugins.css",
-      "PackagePath": "staticwebassets\\css\\css_client\\plugins.css"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\css\\css_client\\responsive.css",
-      "PackagePath": "staticwebassets\\css\\css_client\\responsive.css"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\css\\css_client\\style.css",
-      "PackagePath": "staticwebassets\\css\\css_client\\style.css"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\1.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\1.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\11.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\11.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\12.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\12.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\13.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\13.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\17.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\17.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\18.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\18.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\2.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\2.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\21.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\21.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\22.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\22.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\23.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\23.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\3.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\3.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\banner-1.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\banner-1.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\banner-2.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\banner-2.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\banner-3.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\banner-3.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\banner\\menu-banner-1.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\banner\\menu-banner-1.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\bg\\11.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\bg\\11.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\bg\\13.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\bg\\13.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\bg\\14.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\bg\\14.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\bg\\15.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\bg\\15.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\bg\\17.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\bg\\17.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\bg\\21.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\bg\\21.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\bg\\25.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\bg\\25.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\bg\\26.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\bg\\26.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\bg\\27.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\bg\\27.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\bg\\30.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\bg\\30.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\bg\\6.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\bg\\6.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\1.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\1.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\2.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\2.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\3.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\3.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\31.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\31.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\32.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\32.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\33.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\33.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\34.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\34.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\35.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\35.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\4.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\4.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\5.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\5.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\6.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\6.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\7.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\7.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\8.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\8.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\author.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\author.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\blog-details\\1.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\blog-details\\1.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\blog-details\\11.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\blog-details\\11.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\blog\\blog-details\\12.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\blog\\blog-details\\12.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\brand-logo\\1.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\brand-logo\\1.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\brand-logo\\2.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\brand-logo\\2.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\brand-logo\\3.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\brand-logo\\3.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\brand-logo\\4.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\brand-logo\\4.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\brand-logo\\5.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\brand-logo\\5.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\effect\\1.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\effect\\1.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\effect\\2.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\effect\\2.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\effect\\3.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\effect\\3.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\effect\\4.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\effect\\4.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\effect\\5.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\effect\\5.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\effect\\6.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\effect\\6.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\favicon.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\favicon.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\gallery\\1.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\gallery\\1.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\gallery\\10.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\gallery\\10.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\gallery\\2.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\gallery\\2.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\gallery\\3.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\gallery\\3.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\gallery\\4.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\gallery\\4.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\gallery\\5.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\gallery\\5.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\gallery\\6.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\gallery\\6.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\gallery\\7.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\gallery\\7.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\gallery\\8.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\gallery\\8.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\gallery\\9.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\gallery\\9.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\gallery\\no-image.html",
-      "PackagePath": "staticwebassets\\img\\img_client\\gallery\\no-image.html"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\home-demos\\home-1.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\home-demos\\home-1.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\home-demos\\home-2.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\home-demos\\home-2.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\home-demos\\home-3.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\home-demos\\home-3.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\10.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\10.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\11.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\11.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\12.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\12.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\car.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\car.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\icon-img\\24.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\icon-img\\24.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\icon-img\\25.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\icon-img\\25.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\icon-img\\26.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\icon-img\\26.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\icon-img\\27.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\icon-img\\27.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\payment-2.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\payment-2.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\payment-3.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\payment-3.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\payment-4.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\payment-4.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\payment.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\payment.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\svg\\10-credit-card.svg",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\svg\\10-credit-card.svg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\svg\\11-gift-card.svg",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\svg\\11-gift-card.svg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\svg\\8-trolley.svg",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\svg\\8-trolley.svg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\icons\\svg\\9-money.svg",
-      "PackagePath": "staticwebassets\\img\\img_client\\icons\\svg\\9-money.svg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\img-slide\\11.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\img-slide\\11.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\img-slide\\12.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\img-slide\\12.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\img-slide\\13.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\img-slide\\13.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\logo-2.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\logo-2.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\logo-3.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\logo-3.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\logo.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\logo.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\others\\1.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\others\\1.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\others\\100.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\others\\100.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\others\\9.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\others\\9.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\others\\error-1.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\others\\error-1.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product-2\\1.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product-2\\1.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product-2\\10.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product-2\\10.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product-2\\11.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product-2\\11.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product-2\\12.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product-2\\12.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product-2\\2.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product-2\\2.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product-2\\3.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product-2\\3.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product-2\\4.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product-2\\4.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product-2\\5.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product-2\\5.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product-2\\6.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product-2\\6.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product-2\\7.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product-2\\7.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product-2\\8.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product-2\\8.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product-2\\9.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product-2\\9.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product\\1.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product\\1.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product\\10.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product\\10.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product\\11.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product\\11.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product\\12.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product\\12.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product\\2.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product\\2.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product\\3.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product\\3.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product\\4.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product\\4.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product\\5.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product\\5.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product\\6.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product\\6.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product\\7.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product\\7.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product\\8.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product\\8.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\product\\9.png",
-      "PackagePath": "staticwebassets\\img\\img_client\\product\\9.png"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\service\\11.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\service\\11.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\service\\21.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\service\\21.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\service\\22.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\service\\22.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\service\\31.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\service\\31.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\service\\32.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\service\\32.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\service\\33.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\service\\33.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\service\\34.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\service\\34.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\slider\\1.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\slider\\1.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\slider\\11.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\slider\\11.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\slider\\12.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\slider\\12.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\slider\\13.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\slider\\13.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\slider\\2.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\slider\\2.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\slider\\61.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\slider\\61.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\slider\\62.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\slider\\62.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\slider\\71.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\slider\\71.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\team\\1.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\team\\1.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\team\\2.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\team\\2.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\team\\3.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\team\\3.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\team\\4.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\team\\4.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\team\\5.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\team\\5.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\team\\6.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\team\\6.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\team\\7.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\team\\7.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\team\\8.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\team\\8.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\testimonial\\1.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\testimonial\\1.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\testimonial\\2.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\testimonial\\2.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\testimonial\\3.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\testimonial\\3.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\testimonial\\4.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\testimonial\\4.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\testimonial\\5.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\testimonial\\5.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\testimonial\\6.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\testimonial\\6.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\img\\img_client\\testimonial\\7.jpg",
-      "PackagePath": "staticwebassets\\img\\img_client\\testimonial\\7.jpg"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\js\\js_admin\\app.js",
-      "PackagePath": "staticwebassets\\js\\js_admin\\app.js"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\js\\js_client\\contact.js",
-      "PackagePath": "staticwebassets\\js\\js_client\\contact.js"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\js\\js_client\\main.js",
-      "PackagePath": "staticwebassets\\js\\js_client\\main.js"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\js\\js_client\\maplace-active.js",
-      "PackagePath": "staticwebassets\\js\\js_client\\maplace-active.js"
-    },
-    {
-      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\js\\js_client\\plugins.js",
-      "PackagePath": "staticwebassets\\js\\js_client\\plugins.js"
-    },
-    {
       "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
@@ -883,6 +235,650 @@
     {
       "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\utils_admin\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\utils_admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\utils_admin\\css\\icons.min.css"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\js\\app.js",
+      "PackagePath": "staticwebassets\\utils_admin\\js\\app.js"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\css\\font-icons.css",
+      "PackagePath": "staticwebassets\\utils_client\\css\\font-icons.css"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\utils_client\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\utils_client\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\css\\style.css",
+      "PackagePath": "staticwebassets\\utils_client\\css\\style.css"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\1.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\11.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\11.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\12.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\12.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\13.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\13.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\17.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\17.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\18.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\18.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\2.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\21.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\21.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\22.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\22.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\23.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\23.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\3.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\banner\\menu-banner-1.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\banner\\menu-banner-1.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\bg\\11.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\bg\\11.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\bg\\13.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\bg\\13.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\bg\\14.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\bg\\14.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\bg\\15.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\bg\\15.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\bg\\17.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\bg\\17.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\bg\\21.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\bg\\21.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\bg\\25.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\bg\\25.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\bg\\26.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\bg\\26.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\bg\\27.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\bg\\27.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\bg\\30.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\bg\\30.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\bg\\6.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\bg\\6.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\31.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\31.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\32.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\32.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\33.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\33.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\34.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\34.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\35.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\35.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\5.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\6.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\7.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\7.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\8.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\8.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\author.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\author.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\blog-details\\1.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\blog-details\\1.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\blog-details\\11.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\blog-details\\11.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\blog\\blog-details\\12.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\blog\\blog-details\\12.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\brand-logo\\1.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\brand-logo\\1.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\brand-logo\\2.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\brand-logo\\2.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\brand-logo\\3.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\brand-logo\\3.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\brand-logo\\4.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\brand-logo\\4.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\brand-logo\\5.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\brand-logo\\5.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\effect\\1.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\effect\\1.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\effect\\2.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\effect\\2.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\effect\\3.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\effect\\3.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\effect\\4.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\effect\\4.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\effect\\5.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\effect\\5.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\effect\\6.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\effect\\6.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\gallery\\10.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\gallery\\7.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\gallery\\8.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\gallery\\9.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\gallery\\no-image.html",
+      "PackagePath": "staticwebassets\\utils_client\\img\\gallery\\no-image.html"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\home-demos\\home-1.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\home-demos\\home-1.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\home-demos\\home-2.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\home-demos\\home-2.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\home-demos\\home-3.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\home-demos\\home-3.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\10.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\10.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\11.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\11.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\12.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\12.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\car.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\car.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\icon-img\\24.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\icon-img\\24.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\icon-img\\25.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\icon-img\\25.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\icon-img\\26.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\icon-img\\26.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\icon-img\\27.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\icon-img\\27.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\payment-2.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\payment-2.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\payment-3.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\payment-3.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\payment-4.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\payment-4.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\payment.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\payment.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\svg\\10-credit-card.svg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\svg\\10-credit-card.svg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\svg\\11-gift-card.svg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\svg\\11-gift-card.svg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\svg\\8-trolley.svg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\svg\\8-trolley.svg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\icons\\svg\\9-money.svg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\icons\\svg\\9-money.svg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\img-slide\\11.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\img-slide\\11.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\img-slide\\12.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\img-slide\\12.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\img-slide\\13.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\img-slide\\13.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\logo-2.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\logo-2.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\logo-3.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\logo-3.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\logo.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\others\\1.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\others\\1.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\others\\100.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\others\\100.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\others\\9.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\others\\9.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\others\\error-1.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\others\\error-1.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product-2\\1.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product-2\\1.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product-2\\10.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product-2\\10.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product-2\\11.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product-2\\11.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product-2\\12.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product-2\\12.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product-2\\2.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product-2\\2.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product-2\\3.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product-2\\3.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product-2\\4.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product-2\\4.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product-2\\5.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product-2\\5.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product-2\\6.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product-2\\6.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product-2\\7.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product-2\\7.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product-2\\8.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product-2\\8.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product-2\\9.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product-2\\9.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product\\1.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product\\1.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product\\10.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product\\10.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product\\11.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product\\11.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product\\12.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product\\12.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product\\2.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product\\2.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product\\3.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product\\3.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product\\4.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product\\4.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product\\5.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product\\5.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product\\6.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product\\6.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product\\7.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product\\7.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product\\8.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product\\8.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\product\\9.png",
+      "PackagePath": "staticwebassets\\utils_client\\img\\product\\9.png"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\service\\11.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\service\\11.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\service\\21.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\service\\21.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\service\\22.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\service\\22.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\service\\31.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\service\\31.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\service\\32.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\service\\32.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\service\\33.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\service\\33.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\service\\34.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\service\\34.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\slider\\11.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\slider\\11.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\slider\\12.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\slider\\12.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\slider\\13.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\slider\\13.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\slider\\61.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\slider\\61.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\slider\\62.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\slider\\62.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\slider\\71.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\slider\\71.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\team\\5.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\team\\5.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\team\\6.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\team\\6.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\team\\7.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\team\\7.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\team\\8.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\team\\8.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\testimonial\\1.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\testimonial\\1.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\testimonial\\2.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\testimonial\\2.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\testimonial\\3.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\testimonial\\3.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\testimonial\\4.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\testimonial\\4.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\testimonial\\5.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\testimonial\\5.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\testimonial\\6.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\testimonial\\6.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\img\\testimonial\\7.jpg",
+      "PackagePath": "staticwebassets\\utils_client\\img\\testimonial\\7.jpg"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\js\\contact.js",
+      "PackagePath": "staticwebassets\\utils_client\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\js\\main.js",
+      "PackagePath": "staticwebassets\\utils_client\\js\\main.js"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\js\\maplace-active.js",
+      "PackagePath": "staticwebassets\\utils_client\\js\\maplace-active.js"
+    },
+    {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\utils_client\\js\\plugins.js"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MedicineProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
