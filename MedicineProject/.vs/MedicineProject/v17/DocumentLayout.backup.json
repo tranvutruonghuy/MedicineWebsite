@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\MedicineWebsite\\MedicineProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MedicineProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MedicineProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T02:39:46.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MedicineProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MedicineProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAtwB4BAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T00:44:51.372Z",
+              "EditorCaption": ""
             }
           ]
         }
