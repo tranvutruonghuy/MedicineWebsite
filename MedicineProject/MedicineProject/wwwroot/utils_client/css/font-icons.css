@@ -4,8 +4,6 @@
   1. Font Awesome 
   2. Flat Icon
   3. Iconmoon Icon
-
- 
 =================================================== */
 
 /*---------------------------------------------------------------
@@ -387,7 +385,8 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 .icon-youtube:before {
   content: "\e90a";
 }
-.icon-mail:before {
+.
+:before {
   content: "\e90b";
 }
 .icon-placeholder:before {

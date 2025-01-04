@@ -121,7 +121,7 @@
             <div class="row">
               <div class="col">
                 <div class="site-logo">
-                  <a href="index.html"><img src="~/utils_client/img/logo.png" alt="Logo" /></a>
+                  <a asp-controller="Home" asp-action="Index"><img src="~/utils_client/img/logo.png" alt="Logo" /></a>
                 </div>
               </div>
               <div class="col header-contact-serarch-column d-none d-lg-block">
@@ -268,7 +268,7 @@
               <div class="col header-menu-column justify-content-center">
                 <div class="sticky-logo">
                   <div class="site-logo">
-                    <a href="index.html"
+                    <a asp-controller="Home" asp-action="Index"
                       ><img src="~/utils_client/img/logo-3.png" alt="Logo"
                     /></a>
                   </div>
@@ -411,7 +411,7 @@
             <div class="ltn__utilize-menu-inner ltn__scrollbar">
                 <div class="ltn__utilize-menu-head">
                     <div class="site-logo">
-                        <a href="index.html"><img src="~/utils_client/img/logo.png" alt="Logo" /></a>
+                        <a asp-controller="Home" asp-action="Index"><img src="~/utils_client/img/logo.png" alt="Logo" /></a>
                     </div>
                     <button class="ltn__utilize-close">×</button>
                 </div>
@@ -426,7 +426,7 @@
                         <li>
                             <a href="#">Home</a>
                             <ul class="sub-menu">
-                                <li><a href="index.html">Home Style 01</a></li>
+                                <li><a asp-controller="Home" asp-action="Index">Home Style 01</a></li>
                                 <li><a href="index-2.html">Home Style 02</a></li>
                                 <li><a href="index-3.html">Home Style 03</a></li>
                             </ul>
@@ -436,14 +436,14 @@
                             <ul class="sub-menu">
                                 <li><a href="about.html">About</a></li>
                                 <li><a href="service.html">Services</a></li>
-                                <li><a href="service-details.html">Service Details</a></li>
+                                <li><a asp-controller="Service" asp-action="ServiceDetails">Service Details</a></li>
                                 <li><a href="portfolio.html">Portfolio</a></li>
                                 <li><a href="portfolio-2.html">Portfolio - 02</a></li>
                                 <li>
                                     <a href="portfolio-details.html">Portfolio Details</a>
                                 </li>
                                 <li><a href="team.html">Team</a></li>
-                                <li><a href="team-details.html">Team Details</a></li>
+                                <li><a asp-controller="About" asp-action="TeamDetails">Team Details</a></li>
                                 <li><a href="faq.html">FAQ</a></li>
                                 <li><a href="locations.html">Google Map Locations</a></li>
                             </ul>
@@ -451,7 +451,7 @@
                         <li>
                             <a href="#">Shop</a>
                             <ul class="sub-menu">
-                                <li><a href="shop.html">Shop</a></li>
+                                <li><a asp-controller="Shop" asp-action="Index">Shop</a></li>
                                 <li><a href="shop-grid.html">Shop Grid</a></li>
                                 <li>
                                     <a href="shop-left-sidebar.html">Shop Left sidebar</a>
@@ -459,7 +459,7 @@
                                 <li>
                                     <a href="shop-right-sidebar.html">Shop right sidebar</a>
                                 </li>
-                                <li><a href="product-details.html">Shop details </a></li>
+                                <li><a asp-controller="Shop" asp-action="ProductDetails">Shop details </a></li>
                                 <li><a href="cart.html">Cart</a></li>
                                 <li><a href="wishlist.html">Wishlist</a></li>
                                 <li><a href="checkout.html">Checkout</a></li>
@@ -480,7 +480,7 @@
                                 <li>
                                     <a href="blog-right-sidebar.html">News Right sidebar</a>
                                 </li>
-                                <li><a href="blog-details.html">News details</a></li>
+                                <li><a asp-controller="News" asp-action="NewsDetails">News details</a></li>
                             </ul>
                         </li>
                         <li>
@@ -488,24 +488,24 @@
                             <ul class="sub-menu">
                                 <li><a href="about.html">About</a></li>
                                 <li><a href="service.html">Services</a></li>
-                                <li><a href="service-details.html">Service Details</a></li>
+                                <li><a asp-controller="Service" asp-action="ServiceDetails">Service Details</a></li>
                                 <li><a href="portfolio.html">Portfolio</a></li>
                                 <li><a href="portfolio-2.html">Portfolio - 02</a></li>
                                 <li>
                                     <a href="portfolio-details.html">Portfolio Details</a>
                                 </li>
                                 <li><a href="team.html">Team</a></li>
-                                <li><a href="team-details.html">Team Details</a></li>
+                                <li><a asp-controller="About" asp-action="TeamDetails">Team Details</a></li>
                                 <li><a href="faq.html">FAQ</a></li>
                                 <li><a href="history.html">History</a></li>
                                 <li><a href="add-listing.html">Add Listing</a></li>
                                 <li><a href="locations.html">Google Map Locations</a></li>
                                 <li><a href="404.html">404</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a asp-controller="About" asp-action="Contact">Contact</a></li>
                                 <li><a href="coming-soon.html">Coming Soon</a></li>
                             </ul>
                         </li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a asp-controller="About" asp-action="Contact">Contact</a></li>
                     </ul>
                 </div>
                 <div class="ltn__utilize-buttons ltn__utilize-buttons-2">
@@ -646,10 +646,10 @@
                     <ul>
                       <li><a href="about.html">About</a></li>
                       <li><a href="blog.html">Blog</a></li>
-                      <li><a href="shop.html">All Products</a></li>
+                      <li><a asp-controller="Shop" asp-action="Index">All Products</a></li>
                       <li><a href="locations.html">Locations Map</a></li>
                       <li><a href="faq.html">FAQ</a></li>
-                      <li><a href="contact.html">Contact us</a></li>
+                      <li><a asp-controller="About" asp-action="Contact">Contact us</a></li>
                     </ul>
                   </div>
                 </div>
@@ -679,7 +679,7 @@
                       <li><a href="wishlist.html">Wish List</a></li>
                       <li><a href="order-tracking.html">Order tracking</a></li>
                       <li><a href="faq.html">FAQ</a></li>
-                      <li><a href="contact.html">Contact us</a></li>
+                      <li><a asp-controller="About" asp-action="Contact">Contact us</a></li>
                     </ul>
                   </div>
                 </div>
@@ -765,9 +765,9 @@
                         </div>
                         <div class="modal-product-info">
                           <h5>
-                            <a href="product-details.html"
-                              >Digital Stethoscope</a
-                            >
+                            <a asp-controller="Shop" asp-action="ProductDetails"
+                              >Digital Stethoscope
+                            </a>
                           </h5>
                           <p class="added-cart">
                             <i class="fa fa-check-circle"></i> Successfully

@@ -16,7 +16,15 @@ namespace MedicineProject.Controllers
         {
             return View();
         }
+        public IActionResult GalleryDetails()
+        {
+            return View();
+        }
         public IActionResult Team()
+        {
+            return View();
+        }
+        public IActionResult TeamDetails()
         {
             return View();
         }

@@ -7,7 +7,7 @@
                     <h1 class="page-title">Team Details</h1>
                     <div class="ltn__breadcrumb-list">
                         <ul>
-                            <li><a href="index.html"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span> Home</a></li>
+                            <li><a asp-controller="Home" asp-action="Index"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span> Home</a></li>
                             <li>Team Details</li>
                         </ul>
                     </div>
@@ -105,7 +105,7 @@
                                     <h4><a href="service.html">Medications Vs Lifestyle</a></h4>
                                     <p>Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or</p>
                                     <!-- <a class="ltn__service-btn" href="service.html">Read More</a> -->
-                                    <a class="ltn__service-btn" href="service-details.html">Read More <i class="flaticon-right-arrow"></i></a>
+                                    <a class="ltn__service-btn" asp-controller="Service" asp-action="ServiceDetails">Read More <i class="flaticon-right-arrow"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                                     <h4><a href="team.html">Improving Heart Health Naturally</a></h4>
                                     <p>Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or</p>
                                     <!-- <a class="ltn__service-btn" href="service.html">Read More</a> -->
-                                    <a class="ltn__service-btn" href="service-details.html">Read More <i class="flaticon-right-arrow"></i></a>
+                                    <a class="ltn__service-btn" asp-controller="Service" asp-action="ServiceDetails">Read More <i class="flaticon-right-arrow"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -128,10 +128,10 @@
                                     <span><i class="flaticon-vegetable"></i></span>
                                 </div>
                                 <div class="ltn__feature-info">
-                                    <h4><a href="service-details.html">Optimal Way To Shed Fat</a></h4>
+                                    <h4><a asp-controller="Service" asp-action="ServiceDetails">Optimal Way To Shed Fat</a></h4>
                                     <p>Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or</p>
                                     <!-- <a class="ltn__service-btn" href="service.html">Read More</a> -->
-                                    <a class="ltn__service-btn" href="service-details.html">Read More <i class="flaticon-right-arrow"></i></a>
+                                    <a class="ltn__service-btn" asp-controller="Service" asp-action="ServiceDetails">Read More <i class="flaticon-right-arrow"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -198,7 +198,7 @@
                         <h1>Buy medical disposable face mask <br> to protect your loved ones</h1>
                     </div>
                     <div class="btn-wrapper">
-                        <a class="btn btn-effect-3 btn-white" href="shop.html">Explore Products <i class="icon-next"></i></a>
+                        <a class="btn btn-effect-3 btn-white" asp-controller="Shop" asp-action="Index">Explore Products <i class="icon-next"></i></a>
                     </div>
                 </div>
             </div>

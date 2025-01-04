@@ -118,7 +118,7 @@
                     <div class="row">
                         <div class="col">
                             <div class="site-logo">
-                                <a href="index.html"><img src="img/logo.png" alt="Logo" /></a>
+                                <a asp-controller="Home" asp-action="Index"><img src="img/logo.png" alt="Logo" /></a>
                             </div>
                         </div>
                         <div class="col header-contact-serarch-column d-none d-lg-block">
@@ -251,7 +251,7 @@
                         <div class="col header-menu-column justify-content-center">
                             <div class="sticky-logo">
                                 <div class="site-logo">
-                                    <a href="index.html">
+                                    <a asp-controller="Home" asp-action="Index">
                                         <img src="img/logo-3.png" alt="Logo" />
                                     </a>
                                 </div>
@@ -265,7 +265,7 @@
                                                 <a href="#">About</a>
                                                 <ul>
                                                     <li><a href="about.html">About</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
+                                                    <li><a asp-controller="About" asp-action="Contact">Contact</a></li>
                                                     <li><a href="portfolio.html">Gallery</a></li>
                                                     <li><a href="team.html">Team</a></li>
                                                     <li><a href="faq.html">FAQ</a></li>
@@ -292,7 +292,7 @@
                                                             </li>
                                                             <li><a href="team.html">Team</a></li>
                                                             <li>
-                                                                <a href="team-details.html">Team Details</a>
+                                                                <a asp-controller="About" asp-action="TeamDetails">Team Details</a>
                                                             </li>
                                                             <li><a href="faq.html">FAQ</a></li>
                                                         </ul>
@@ -301,12 +301,12 @@
                                                         <a href="#">Inner Pages</a>
                                                         <ul>
                                                             <li><a href="history.html">History</a></li>
-                                                            <li><a href="contact.html">Appointment</a></li>
+                                                            <li><a asp-controller="About" asp-action="Contact">Appointment</a></li>
                                                             <li>
                                                                 <a href="locations.html">Google Map Locations</a>
                                                             </li>
                                                             <li><a href="404.html">404</a></li>
-                                                            <li><a href="contact.html">Contact</a></li>
+                                                            <li><a asp-controller="About" asp-action="Contact">Contact</a></li>
                                                             <li>
                                                                 <a href="coming-soon.html">Coming Soon</a>
                                                             </li>
@@ -315,7 +315,7 @@
                                                     <li>
                                                         <a href="#">Shop Pages</a>
                                                         <ul>
-                                                            <li><a href="shop.html">Shop</a></li>
+                                                            <li><a asp-controller="Shop" asp-action="Index">Shop</a></li>
                                                             <li>
                                                                 <a href="shop-left-sidebar.html">Shop Left sidebar</a>
                                                             </li>
@@ -324,7 +324,7 @@
                                                             </li>
                                                             <li><a href="shop-grid.html">Shop Grid</a></li>
                                                             <li>
-                                                                <a href="product-details.html">
+                                                                <a asp-controller="Shop" asp-action="ProductDetails">
                                                                     Shop details
                                                                 </a>
                                                             </li>
@@ -332,7 +332,7 @@
                                                         </ul>
                                                     </li>
                                                     <li>
-                                                        <a href="shop.html">
+                                                        <a asp-controller="Shop" asp-action="Index">
                                                             <img src="img/banner/menu-banner-1.png"
                                                                  alt="#" />
                                                         </a>
@@ -453,7 +453,7 @@
             <div class="ltn__utilize-menu-inner ltn__scrollbar">
                 <div class="ltn__utilize-menu-head">
                     <div class="site-logo">
-                        <a href="index.html"><img src="img/logo.png" alt="Logo" /></a>
+                        <a asp-controller="Home" asp-action="Index"><img src="img/logo.png" alt="Logo" /></a>
                     </div>
                     <button class="ltn__utilize-close">×</button>
                 </div>
@@ -468,7 +468,7 @@
                         <li>
                             <a href="#">Home</a>
                             <ul class="sub-menu">
-                                <li><a href="index.html">Home Style 01</a></li>
+                                <li><a asp-controller="Home" asp-action="Index">Home Style 01</a></li>
                                 <li><a href="index-2.html">Home Style 02</a></li>
                                 <li><a href="index-3.html">Home Style 03</a></li>
                             </ul>
@@ -478,14 +478,14 @@
                             <ul class="sub-menu">
                                 <li><a href="about.html">About</a></li>
                                 <li><a href="service.html">Services</a></li>
-                                <li><a href="service-details.html">Service Details</a></li>
+                                <li><a asp-controller="Service" asp-action="ServiceDetails">Service Details</a></li>
                                 <li><a href="portfolio.html">Portfolio</a></li>
                                 <li><a href="portfolio-2.html">Portfolio - 02</a></li>
                                 <li>
                                     <a href="portfolio-details.html">Portfolio Details</a>
                                 </li>
                                 <li><a href="team.html">Team</a></li>
-                                <li><a href="team-details.html">Team Details</a></li>
+                                <li><a asp-controller="About" asp-action="TeamDetails">Team Details</a></li>
                                 <li><a href="faq.html">FAQ</a></li>
                                 <li><a href="locations.html">Google Map Locations</a></li>
                             </ul>
@@ -493,7 +493,7 @@
                         <li>
                             <a href="#">Shop</a>
                             <ul class="sub-menu">
-                                <li><a href="shop.html">Shop</a></li>
+                                <li><a asp-controller="Shop" asp-action="Index">Shop</a></li>
                                 <li><a href="shop-grid.html">Shop Grid</a></li>
                                 <li>
                                     <a href="shop-left-sidebar.html">Shop Left sidebar</a>
@@ -501,7 +501,7 @@
                                 <li>
                                     <a href="shop-right-sidebar.html">Shop right sidebar</a>
                                 </li>
-                                <li><a href="product-details.html">Shop details </a></li>
+                                <li><a asp-controller="Shop" asp-action="ProductDetails">Shop details </a></li>
                                 <li><a href="cart.html">Cart</a></li>
                                 <li><a href="wishlist.html">Wishlist</a></li>
                                 <li><a href="checkout.html">Checkout</a></li>
@@ -522,7 +522,7 @@
                                 <li>
                                     <a href="blog-right-sidebar.html">News Right sidebar</a>
                                 </li>
-                                <li><a href="blog-details.html">News details</a></li>
+                                <li><a asp-controller="News" asp-action="NewsDetails">News details</a></li>
                             </ul>
                         </li>
                         <li>
@@ -530,24 +530,24 @@
                             <ul class="sub-menu">
                                 <li><a href="about.html">About</a></li>
                                 <li><a href="service.html">Services</a></li>
-                                <li><a href="service-details.html">Service Details</a></li>
+                                <li><a asp-controller="Service" asp-action="ServiceDetails">Service Details</a></li>
                                 <li><a href="portfolio.html">Portfolio</a></li>
                                 <li><a href="portfolio-2.html">Portfolio - 02</a></li>
                                 <li>
                                     <a href="portfolio-details.html">Portfolio Details</a>
                                 </li>
                                 <li><a href="team.html">Team</a></li>
-                                <li><a href="team-details.html">Team Details</a></li>
+                                <li><a asp-controller="About" asp-action="TeamDetails">Team Details</a></li>
                                 <li><a href="faq.html">FAQ</a></li>
                                 <li><a href="history.html">History</a></li>
                                 <li><a href="add-listing.html">Add Listing</a></li>
                                 <li><a href="locations.html">Google Map Locations</a></li>
                                 <li><a href="404.html">404</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a asp-controller="About" asp-action="Contact">Contact</a></li>
                                 <li><a href="coming-soon.html">Coming Soon</a></li>
                             </ul>
                         </li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a asp-controller="About" asp-action="Contact">Contact</a></li>
                     </ul>
                 </div>
                 <div class="ltn__utilize-buttons ltn__utilize-buttons-2">
@@ -622,7 +622,7 @@
                                 <ul>
                                     <!-- Submenu Column - unlimited -->
                                     <li class="ltn__category-menu-item ltn__category-menu-drop">
-                                        <a href="shop.html">
+                                        <a asp-controller="Shop" asp-action="Index">
                                             <i class="icon-shopping-bags"></i>Health Care
                                         </a>
                                         <ul class="ltn__category-submenu ltn__category-column-5">
@@ -714,7 +714,7 @@
                                     </li>
                                     <!-- Submenu Column - 4 -->
                                     <li class="ltn__category-menu-item ltn__category-menu-drop">
-                                        <a href="shop.html">
+                                        <a asp-controller="Shop" asp-action="Index">
                                             <i class="icon-options"></i>First Aid
                                         </a>
                                         <ul class="ltn__category-submenu ltn__category-column-4">
@@ -762,7 +762,7 @@
                                     </li>
                                     <!-- Submenu Column - 3 -->
                                     <li class="ltn__category-menu-item ltn__category-menu-drop">
-                                        <a href="shop.html"><i class="icon-award"></i>Surgical Product</a>
+                                        <a asp-controller="Shop" asp-action="Index"><i class="icon-award"></i>Surgical Product</a>
                                         <ul class="ltn__category-submenu ltn__category-column-3">
                                             <li class="ltn__category-submenu-title ltn__category-menu-drop">
                                                 <a href="#">Handbags</a>
@@ -798,7 +798,7 @@
                                     </li>
                                     <!-- Submenu Column - 2 -->
                                     <li class="ltn__category-menu-item ltn__category-menu-drop">
-                                        <a href="shop.html"><i class="icon-user"></i>Diagnostic Product</a>
+                                        <a asp-controller="Shop" asp-action="Index"><i class="icon-user"></i>Diagnostic Product</a>
                                         <ul class="ltn__category-submenu ltn__category-column-2">
                                             <li class="ltn__category-submenu-title ltn__category-menu-drop">
                                                 <a href="#">Handbags</a>
@@ -824,7 +824,7 @@
                                     </li>
                                     <!-- Submenu -->
                                     <li class="ltn__category-menu-item ltn__category-menu-drop">
-                                        <a href="shop.html"><i class="icon-shopping-cart"></i>Laboratory Product</a>
+                                        <a asp-controller="Shop" asp-action="Index"><i class="icon-shopping-cart"></i>Laboratory Product</a>
                                         <ul class="ltn__category-submenu">
                                             <li class="ltn__category-submenu-title ltn__category-menu-drop">
                                                 <a href="#">Handbags</a>
@@ -840,7 +840,7 @@
                                     </li>
                                     <!-- Submenu -->
                                     <li class="ltn__category-menu-item ltn__category-menu-drop">
-                                        <a href="shop.html"><i class="icon-tag"></i>Hospital Products</a>
+                                        <a asp-controller="Shop" asp-action="Index"><i class="icon-tag"></i>Hospital Products</a>
                                         <ul class="ltn__category-submenu">
                                             <li class="ltn__category-submenu-title ltn__category-menu-drop">
                                                 <a href="#">Handbags</a>
@@ -856,7 +856,7 @@
                                     </li>
                                     <!-- Submenu -->
                                     <li class="ltn__category-menu-item ltn__category-menu-drop">
-                                        <a href="shop.html">
+                                        <a asp-controller="Shop" asp-action="Index">
                                             <i class="icon-shopping-bags"></i>Service & Setup
                                         </a>
                                         <ul class="ltn__category-submenu">
@@ -874,7 +874,7 @@
                                     </li>
                                     <!-- Submenu -->
                                     <li class="ltn__category-menu-item ltn__category-menu-drop">
-                                        <a href="shop.html"><i class="icon-options"></i>Food & Nutrition</a>
+                                        <a asp-controller="Shop" asp-action="Index"><i class="icon-options"></i>Food & Nutrition</a>
                                         <ul class="ltn__category-submenu">
                                             <li class="ltn__category-submenu-title ltn__category-menu-drop">
                                                 <a href="#">Handbags</a>
@@ -890,7 +890,7 @@
                                     </li>
                                     <!-- Show more menu -->
                                     <li class="ltn__category-menu-more-item-child">
-                                        <a href="shop.html"><i class="icon-shopping-bags"></i>Apple Juice</a>
+                                        <a asp-controller="Shop" asp-action="Index"><i class="icon-shopping-bags"></i>Apple Juice</a>
                                         <ul class="ltn__category-submenu">
                                             <li class="ltn__category-submenu-title ltn__category-menu-drop">
                                                 <a href="#">Handbags</a>
@@ -905,7 +905,7 @@
                                         </ul>
                                     </li>
                                     <li class="ltn__category-menu-more-item-child">
-                                        <a href="shop.html"><i class="icon-options"></i>Dry Nuts</a>
+                                        <a asp-controller="Shop" asp-action="Index"><i class="icon-options"></i>Dry Nuts</a>
                                         <ul class="ltn__category-submenu">
                                             <li class="ltn__category-submenu-title ltn__category-menu-drop">
                                                 <a href="#">Handbags</a>
@@ -962,7 +962,7 @@
                                                             </p>
                                                         </div>
                                                         <div class="btn-wrapper animated">
-                                                            <a href="shop.html"
+                                                            <a asp-controller="Shop" asp-action="Index"
                                                                class="theme-btn-1 btn btn-effect-1 text-uppercase">Shop now</a>
                                                         </div>
                                                     </div>
@@ -970,7 +970,7 @@
                                             </div>
                                             <div class="col-lg-5 col-md-5 col-sm-5 align-self-center">
                                                 <div class="slide-item-img">
-                                                    <!-- <a href="shop.html"><img src="img/product/1.png" alt="Image"></a> -->
+                                                    <!-- <a asp-controller="Shop" asp-action="Index"><img src="img/product/1.png" alt="Image"></a> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -1000,7 +1000,7 @@
                                                             </p>
                                                         </div>
                                                         <div class="btn-wrapper animated">
-                                                            <a href="shop.html"
+                                                            <a asp-controller="Shop" asp-action="Index"
                                                                class="theme-btn-1 btn btn-effect-1 text-uppercase">Shop now</a>
                                                         </div>
                                                     </div>
@@ -1008,7 +1008,7 @@
                                             </div>
                                             <div class="col-lg-5 col-md-5 col-sm-5 align-self-center">
                                                 <div class="slide-item-img">
-                                                    <!-- <a href="shop.html"><img src="img/slider/62.jpg" alt="Image"></a> -->
+                                                    <!-- <a asp-controller="Shop" asp-action="Index"><img src="img/slider/62.jpg" alt="Image"></a> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -1101,7 +1101,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/11.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -1164,7 +1164,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -1174,7 +1174,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/7.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -1234,7 +1234,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$78.00</span>
@@ -1247,7 +1247,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/12.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -1310,7 +1310,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -1320,7 +1320,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/8.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -1380,7 +1380,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Thermometer Gun</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -1393,7 +1393,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/10.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -1453,7 +1453,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$75.00</span>
@@ -1463,7 +1463,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/9.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -1526,7 +1526,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -1539,7 +1539,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -1599,7 +1599,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$78.00</span>
@@ -1609,7 +1609,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/10.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -1669,7 +1669,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$75.00</span>
@@ -1682,7 +1682,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/5.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -1742,7 +1742,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Blue Hand Gloves</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Blue Hand Gloves</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -1752,7 +1752,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -1815,7 +1815,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -1828,7 +1828,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/7.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -1888,7 +1888,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Thermometer Gun</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -1898,7 +1898,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/11.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -1961,7 +1961,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -1981,7 +1981,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/8.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2044,7 +2044,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -2054,7 +2054,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/10.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2114,7 +2114,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$78.00</span>
@@ -2127,7 +2127,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/5.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2190,7 +2190,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -2200,7 +2200,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/9.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2260,7 +2260,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Thermometer Gun</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -2273,7 +2273,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2333,7 +2333,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$75.00</span>
@@ -2343,7 +2343,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/8.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2406,7 +2406,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -2419,7 +2419,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/10.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2479,7 +2479,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$78.00</span>
@@ -2489,7 +2489,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/10.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2549,7 +2549,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$75.00</span>
@@ -2562,7 +2562,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/5.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2622,7 +2622,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Blue Hand Gloves</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Blue Hand Gloves</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -2632,7 +2632,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2695,7 +2695,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -2708,7 +2708,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/7.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2768,7 +2768,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Thermometer Gun</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -2778,7 +2778,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/11.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2841,7 +2841,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -2861,7 +2861,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2924,7 +2924,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -2934,7 +2934,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/12.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -2994,7 +2994,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$78.00</span>
@@ -3007,7 +3007,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/8.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3070,7 +3070,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -3080,7 +3080,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/5.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3140,7 +3140,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Thermometer Gun</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -3153,7 +3153,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/9.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3213,7 +3213,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$75.00</span>
@@ -3223,7 +3223,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/11.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3286,7 +3286,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -3299,7 +3299,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3359,7 +3359,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$78.00</span>
@@ -3369,7 +3369,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/10.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3429,7 +3429,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$75.00</span>
@@ -3442,7 +3442,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/5.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3502,7 +3502,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Blue Hand Gloves</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Blue Hand Gloves</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -3512,7 +3512,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3575,7 +3575,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -3588,7 +3588,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/7.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3648,7 +3648,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Thermometer Gun</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -3658,7 +3658,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/11.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3721,7 +3721,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -3741,7 +3741,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product/3.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3804,7 +3804,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -3814,7 +3814,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/5.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3874,7 +3874,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$78.00</span>
@@ -3887,7 +3887,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/2.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -3950,7 +3950,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -3960,7 +3960,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/8.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4020,7 +4020,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Thermometer Gun</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -4033,7 +4033,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4093,7 +4093,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$75.00</span>
@@ -4103,7 +4103,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4166,7 +4166,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -4179,7 +4179,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4239,7 +4239,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$78.00</span>
@@ -4249,7 +4249,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/10.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4309,7 +4309,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$75.00</span>
@@ -4322,7 +4322,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/5.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4382,7 +4382,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Blue Hand Gloves</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Blue Hand Gloves</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -4392,7 +4392,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4455,7 +4455,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -4468,7 +4468,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/7.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4528,7 +4528,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Thermometer Gun</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -4538,7 +4538,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/11.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4601,7 +4601,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -4621,7 +4621,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/7.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4684,7 +4684,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -4694,7 +4694,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/10.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4754,7 +4754,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$78.00</span>
@@ -4767,7 +4767,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/5.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4830,7 +4830,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -4840,7 +4840,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/9.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4900,7 +4900,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Thermometer Gun</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -4913,7 +4913,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/9.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -4973,7 +4973,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$75.00</span>
@@ -4983,7 +4983,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -5046,7 +5046,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -5059,7 +5059,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/12.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -5119,7 +5119,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$78.00</span>
@@ -5129,7 +5129,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/10.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -5189,7 +5189,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Cosmetic Containers</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$75.00</span>
@@ -5202,7 +5202,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/5.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -5262,7 +5262,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Blue Hand Gloves</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Blue Hand Gloves</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -5272,7 +5272,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/6.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -5335,7 +5335,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -5348,7 +5348,7 @@
                                         <div class="col-lg-12">
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/7.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -5408,7 +5408,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Thermometer Gun</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$150.00</span>
@@ -5418,7 +5418,7 @@
                                             </div>
                                             <div class="ltn__product-item ltn__product-item-3 text-center">
                                                 <div class="product-img">
-                                                    <a href="product-details.html">
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">
                                                         <img src="img/product-2/11.png" alt="#" />
                                                     </a>
                                                     <div class="product-badge">
@@ -5481,7 +5481,7 @@
                                                         </ul>
                                                     </div>
                                                     <h2 class="product-title">
-                                                        <a href="product-details.html">Antiseptic Spray</a>
+                                                        <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a>
                                                     </h2>
                                                     <div class="product-price">
                                                         <span>$32.00</span>
@@ -5595,11 +5595,11 @@
                             @*           <div class="btn-wrapper animated">
                                 *@
                                 @*             <a *@
-                                                  @* href="shop.html" *@
+                                                  @* asp-controller="Shop" asp-action="Index" *@
                                                   @* class="theme-btn-1 btn btn-effect-1 text-uppercase" *@
                                                   @*>Shop now</a> *@
                                 @*             <a *@
-                                                  @* href="shop.html" *@
+                                                  @* asp-controller="Shop" asp-action="Index" *@
                                                   @* class="ltn__secondary-color text-decoration-underline" *@
                                                   @*>Deal of The Day</a> *@
                                 @*
@@ -5642,7 +5642,7 @@
                             *@
                             @*           <div class="product-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product-2/1.png" alt="#" *@
                                          @* />
@@ -5753,7 +5753,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Antiseptic Spray</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -5775,7 +5775,7 @@
                             *@
                             @*           <div class="product-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product-2/2.png" alt="#" *@
                                          @* />
@@ -5876,7 +5876,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Digital Stethoscope</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Digital Stethoscope</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -5898,7 +5898,7 @@
                             *@
                             @*           <div class="product-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product-2/3.png" alt="#" *@
                                          @* />
@@ -6009,7 +6009,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Cosmetic Containers</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -6031,7 +6031,7 @@
                             *@
                             @*           <div class="product-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product-2/4.png" alt="#" *@
                                          @* />
@@ -6142,7 +6142,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Cosmetic Containers</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -6164,7 +6164,7 @@
                             *@
                             @*           <div class="product-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product-2/5.png" alt="#" *@
                                          @* />
@@ -6275,7 +6275,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Blue Hand Gloves</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Blue Hand Gloves</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -6297,7 +6297,7 @@
                             *@
                             @*           <div class="product-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product-2/6.png" alt="#" *@
                                          @* />
@@ -6408,7 +6408,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Thermometer Gun</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -6430,7 +6430,7 @@
                             *@
                             @*           <div class="product-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product-2/7.png" alt="#" *@
                                          @* />
@@ -6541,7 +6541,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Cosmetic Containers</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -6563,7 +6563,7 @@
                             *@
                             @*           <div class="product-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product-2/8.png" alt="#" *@
                                          @* />
@@ -6674,7 +6674,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Cosmetic Containers</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -6726,7 +6726,7 @@
                             *@
                             @*           <div class="small-product-item-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product/1.png" alt="Image" *@
                                          @* />
@@ -6775,7 +6775,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Antiseptic Spray</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Antiseptic Spray</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -6797,7 +6797,7 @@
                             *@
                             @*           <div class="small-product-item-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product/2.png" alt="Image" *@
                                          @* />
@@ -6846,7 +6846,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Digital Stethoscope</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Digital Stethoscope</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -6868,7 +6868,7 @@
                             *@
                             @*           <div class="small-product-item-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product/3.png" alt="Image" *@
                                          @* />
@@ -6917,7 +6917,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Thermometer Gun</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -6939,7 +6939,7 @@
                             *@
                             @*           <div class="small-product-item-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product/4.png" alt="Image" *@
                                          @* />
@@ -6988,7 +6988,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Tail Light Lens</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Tail Light Lens</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -7010,7 +7010,7 @@
                             *@
                             @*           <div class="small-product-item-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product/5.png" alt="Image" *@
                                          @* />
@@ -7059,7 +7059,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Coil Spring Kit</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Coil Spring Kit</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -7081,7 +7081,7 @@
                             *@
                             @*           <div class="small-product-item-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product/6.png" alt="Image" *@
                                          @* />
@@ -7130,7 +7130,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Cosmetic Containers</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -7152,7 +7152,7 @@
                             *@
                             @*           <div class="small-product-item-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product/7.png" alt="Image" *@
                                          @* />
@@ -7201,7 +7201,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Digital Stethoscope</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Digital Stethoscope</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -7223,7 +7223,7 @@
                             *@
                             @*           <div class="small-product-item-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product/8.png" alt="Image" *@
                                          @* />
@@ -7272,7 +7272,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Thermometer Gun</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Thermometer Gun</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -7294,7 +7294,7 @@
                             *@
                             @*           <div class="small-product-item-img">
                                 *@
-                                @*             <a href="product-details.html" *@
+                                @*             <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                   @*>
                                     <img src="img/product/9.png" alt="Image" *@
                                          @* />
@@ -7343,7 +7343,7 @@
                                 </div> *@
                                 @*             <h2 class="product-title">
                                     *@
-                                    @*               <a href="product-details.html">Cosmetic Containers</a> *@
+                                    @*               <a asp-controller="Shop" asp-action="ProductDetails">Cosmetic Containers</a> *@
                                     @*
                                 </h2> *@
                                 @*             <div class="product-price">
@@ -7516,7 +7516,7 @@
                     <div class="col-lg-12">
                         <div class="ltn__blog-item ltn__blog-item-3">
                             <div class="ltn__blog-img">
-                                <a href="blog-details.html">
+                                <a asp-controller="News" asp-action="NewsDetails">
                                     <img src="img/blog/1.jpg" alt="#" />
                                 </a>
                             </div>
@@ -7532,7 +7532,7 @@
                                     </ul>
                                 </div>
                                 <h3 class="ltn__blog-title">
-                                    <a href="blog-details.html">10 Brilliant Ways To Decorate Your Home</a>
+                                    <a asp-controller="News" asp-action="NewsDetails">10 Brilliant Ways To Decorate Your Home</a>
                                 </h3>
                                 <div class="ltn__blog-meta-btn">
                                     <div class="ltn__blog-meta">
@@ -7543,7 +7543,7 @@
                                         </ul>
                                     </div>
                                     <div class="ltn__blog-btn">
-                                        <a href="blog-details.html">Read more</a>
+                                        <a asp-controller="News" asp-action="NewsDetails">Read more</a>
                                     </div>
                                 </div>
                             </div>
@@ -7553,7 +7553,7 @@
                     <div class="col-lg-12">
                         <div class="ltn__blog-item ltn__blog-item-3">
                             <div class="ltn__blog-img">
-                                <a href="blog-details.html">
+                                <a asp-controller="News" asp-action="NewsDetails">
                                     <img src="img/blog/2.jpg" alt="#" />
                                 </a>
                             </div>
@@ -7569,7 +7569,7 @@
                                     </ul>
                                 </div>
                                 <h3 class="ltn__blog-title">
-                                    <a href="blog-details.html">The Most Inspiring Interior Design Of 2021</a>
+                                    <a asp-controller="News" asp-action="NewsDetails">The Most Inspiring Interior Design Of 2021</a>
                                 </h3>
                                 <div class="ltn__blog-meta-btn">
                                     <div class="ltn__blog-meta">
@@ -7580,7 +7580,7 @@
                                         </ul>
                                     </div>
                                     <div class="ltn__blog-btn">
-                                        <a href="blog-details.html">Read more</a>
+                                        <a asp-controller="News" asp-action="NewsDetails">Read more</a>
                                     </div>
                                 </div>
                             </div>
@@ -7590,7 +7590,7 @@
                     <div class="col-lg-12">
                         <div class="ltn__blog-item ltn__blog-item-3">
                             <div class="ltn__blog-img">
-                                <a href="blog-details.html">
+                                <a asp-controller="News" asp-action="NewsDetails">
                                     <img src="img/blog/3.jpg" alt="#" />
                                 </a>
                             </div>
@@ -7606,7 +7606,7 @@
                                     </ul>
                                 </div>
                                 <h3 class="ltn__blog-title">
-                                    <a href="blog-details.html">Recent Commercial Real Estate Transactions</a>
+                                    <a asp-controller="News" asp-action="NewsDetails">Recent Commercial Real Estate Transactions</a>
                                 </h3>
                                 <div class="ltn__blog-meta-btn">
                                     <div class="ltn__blog-meta">
@@ -7617,7 +7617,7 @@
                                         </ul>
                                     </div>
                                     <div class="ltn__blog-btn">
-                                        <a href="blog-details.html">Read more</a>
+                                        <a asp-controller="News" asp-action="NewsDetails">Read more</a>
                                     </div>
                                 </div>
                             </div>
@@ -7627,7 +7627,7 @@
                     <div class="col-lg-12">
                         <div class="ltn__blog-item ltn__blog-item-3">
                             <div class="ltn__blog-img">
-                                <a href="blog-details.html">
+                                <a asp-controller="News" asp-action="NewsDetails">
                                     <img src="img/blog/4.jpg" alt="#" />
                                 </a>
                             </div>
@@ -7643,7 +7643,7 @@
                                     </ul>
                                 </div>
                                 <h3 class="ltn__blog-title">
-                                    <a href="blog-details.html">Renovating a Living Room? Experts Share Their Secrets</a>
+                                    <a asp-controller="News" asp-action="NewsDetails">Renovating a Living Room? Experts Share Their Secrets</a>
                                 </h3>
                                 <div class="ltn__blog-meta-btn">
                                     <div class="ltn__blog-meta">
@@ -7654,7 +7654,7 @@
                                         </ul>
                                     </div>
                                     <div class="ltn__blog-btn">
-                                        <a href="blog-details.html">Read more</a>
+                                        <a asp-controller="News" asp-action="NewsDetails">Read more</a>
                                     </div>
                                 </div>
                             </div>
@@ -7664,7 +7664,7 @@
                     <div class="col-lg-12">
                         <div class="ltn__blog-item ltn__blog-item-3">
                             <div class="ltn__blog-img">
-                                <a href="blog-details.html">
+                                <a asp-controller="News" asp-action="NewsDetails">
                                     <img src="img/blog/5.jpg" alt="#" />
                                 </a>
                             </div>
@@ -7680,7 +7680,7 @@
                                     </ul>
                                 </div>
                                 <h3 class="ltn__blog-title">
-                                    <a href="blog-details.html">7 home trends that will shape your house in 2021</a>
+                                    <a asp-controller="News" asp-action="NewsDetails">7 home trends that will shape your house in 2021</a>
                                 </h3>
                                 <div class="ltn__blog-meta-btn">
                                     <div class="ltn__blog-meta">
@@ -7691,7 +7691,7 @@
                                         </ul>
                                     </div>
                                     <div class="ltn__blog-btn">
-                                        <a href="blog-details.html">Read more</a>
+                                        <a asp-controller="News" asp-action="NewsDetails">Read more</a>
                                     </div>
                                 </div>
                             </div>
@@ -7730,7 +7730,7 @@
                             </div> *@
                             @*           <div class="btn-wrapper">
                                 *@
-                                @*             <a class="btn btn-effect-3 btn-white" href="shop.html" *@
+                                @*             <a class="btn btn-effect-3 btn-white" asp-controller="Shop" asp-action="Index" *@
                                                   @*>
                                     Explore Products <i class="icon-next"></i>
                                 </a> *@
@@ -7826,10 +7826,10 @@
                                     <ul>
                                         <li><a href="about.html">About</a></li>
                                         <li><a href="blog.html">Blog</a></li>
-                                        <li><a href="shop.html">All Products</a></li>
+                                        <li><a asp-controller="Shop" asp-action="Index">All Products</a></li>
                                         <li><a href="locations.html">Locations Map</a></li>
                                         <li><a href="faq.html">FAQ</a></li>
-                                        <li><a href="contact.html">Contact us</a></li>
+                                        <li><a asp-controller="About" asp-action="Contact">Contact us</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -7859,7 +7859,7 @@
                                         <li><a href="wishlist.html">Wish List</a></li>
                                         <li><a href="order-tracking.html">Order tracking</a></li>
                                         <li><a href="faq.html">FAQ</a></li>
-                                        <li><a href="contact.html">Contact us</a></li>
+                                        <li><a asp-controller="About" asp-action="Contact">Contact us</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -8228,7 +8228,7 @@
                                                 *@
                                                 @*                     <h5>
                                                     *@
-                                                    @*                       <a href="product-details.html" *@
+                                                    @*                       <a asp-controller="Shop" asp-action="ProductDetails" *@
                                                                                 @*>Digital Stethoscope</a> *@
                                                     @*
                                                 </h5> *@
@@ -8311,7 +8311,7 @@
                                             </div>
                                             <div class="modal-product-info">
                                                 <h5>
-                                                    <a href="product-details.html">Digital Stethoscope</a>
+                                                    <a asp-controller="Shop" asp-action="ProductDetails">Digital Stethoscope</a>
                                                 </h5>
                                                 <p class="added-cart">
                                                     <i class="fa fa-check-circle"></i> Successfully
