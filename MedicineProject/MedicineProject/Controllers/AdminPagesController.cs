@@ -4,10 +4,16 @@ namespace MedicineProject.Controllers
 {
     public class AdminPagesController : Controller
     {
+        
         public IActionResult Dashboard()
         {
             return View();
         }
+        public IActionResult AddCategory()
+        {
+            return View();
+        }
+        
         public IActionResult CategoryList()
         {
             return View();

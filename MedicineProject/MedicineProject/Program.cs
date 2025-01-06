@@ -1,5 +1,12 @@
-var builder = WebApplication.CreateBuilder(args);
+using MedicineProject.Repository;
+using Microsoft.EntityFrameworkCore;
 
+var builder = WebApplication.CreateBuilder(args);
+// Add DbContext
+builder.Services.AddDbContext<DataContext>(options =>
+{
+	options.UseMySQL(builder.Configuration.GetConnectionString("DbConnection"));
+});
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

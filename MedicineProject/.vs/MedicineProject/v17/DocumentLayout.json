@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\MedicineWebsite\\MedicineProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\controllers\\adminpagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\controllers\\adminpagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\views\\adminpages\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\views\\adminpages\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\views\\adminpages\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\views\\adminpages\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\models\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\models\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\repository\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\repository\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\migrations\\20250105084201_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\migrations\\20250105084201_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\medicineproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\medicineproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\models\\orderdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\models\\orderdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\models\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,16 +75,8 @@
       "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\views\\adminpages\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\views\\adminpages\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\wwwroot\\utils_client\\css\\font-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\wwwroot\\utils_client\\css\\font-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\views\\adminpages\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -81,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\wwwroot\\clone\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\wwwroot\\clone\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|c:\\medicinewebsite\\medicineproject\\medicineproject\\controllers\\adminpagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0312D134-4879-4DA8-A9B6-FF5A03AAEF44}|MedicineProject\\MedicineProject.csproj|solutionrelative:medicineproject\\controllers\\adminpagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,33 +122,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Repository\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "MedicineProject\\Repository\\MyDbContext.cs",
-              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Repository\\MyDbContext.cs",
-              "RelativeToolTip": "MedicineProject\\Repository\\MyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T17:31:16.262Z",
+              "DocumentIndex": 1,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\AdminPages\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "MedicineProject\\Views\\AdminPages\\AddCategory.cshtml",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\AdminPages\\AddCategory.cshtml",
+              "RelativeToolTip": "MedicineProject\\Views\\AdminPages\\AddCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T08:25:46.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\ProductModel.cs",
-              "RelativeDocumentMoniker": "MedicineProject\\Models\\ProductModel.cs",
-              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\ProductModel.cs",
-              "RelativeToolTip": "MedicineProject\\Models\\ProductModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T17:04:32.608Z",
-              "EditorCaption": ""
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MedicineProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MedicineProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T08:32:54.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "OrderModel.cs",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\OrderModel.cs",
               "RelativeDocumentMoniker": "MedicineProject\\Models\\OrderModel.cs",
@@ -136,12 +155,11 @@
               "RelativeToolTip": "MedicineProject\\Models\\OrderModel.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T17:02:08.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T17:02:08.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "OrderDetailsModel.cs",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\OrderDetailsModel.cs",
               "RelativeDocumentMoniker": "MedicineProject\\Models\\OrderDetailsModel.cs",
@@ -149,31 +167,43 @@
               "RelativeToolTip": "MedicineProject\\Models\\OrderDetailsModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T17:01:26.404Z",
+              "WhenOpened": "2025-01-04T17:01:26.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\AdminPages\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "MedicineProject\\Views\\AdminPages\\CategoryList.cshtml",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\AdminPages\\CategoryList.cshtml",
+              "RelativeToolTip": "MedicineProject\\Views\\AdminPages\\CategoryList.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwFwBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T02:13:08.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientModel.cs",
-              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\ClientModel.cs",
-              "RelativeDocumentMoniker": "MedicineProject\\Models\\ClientModel.cs",
-              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\ClientModel.cs",
-              "RelativeToolTip": "MedicineProject\\Models\\ClientModel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T16:41:00.217Z",
+              "DocumentIndex": 4,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MedicineProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MedicineProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADUBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T02:12:04.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CategoryModel.cs",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\CategoryModel.cs",
               "RelativeDocumentMoniker": "MedicineProject\\Models\\CategoryModel.cs",
               "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\CategoryModel.cs",
               "RelativeToolTip": "MedicineProject\\Models\\CategoryModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T16:22:56.186Z",
               "EditorCaption": ""
@@ -181,19 +211,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "MedicineProject\\Repository\\DataContext.cs",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Repository\\DataContext.cs",
+              "RelativeToolTip": "MedicineProject\\Repository\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:31:16.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPagesController.cs",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Controllers\\AdminPagesController.cs",
+              "RelativeDocumentMoniker": "MedicineProject\\Controllers\\AdminPagesController.cs",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Controllers\\AdminPagesController.cs",
+              "RelativeToolTip": "MedicineProject\\Controllers\\AdminPagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T02:25:57.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientModel.cs",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\ClientModel.cs",
+              "RelativeDocumentMoniker": "MedicineProject\\Models\\ClientModel.cs",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\ClientModel.cs",
+              "RelativeToolTip": "MedicineProject\\Models\\ClientModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:41:00.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "MedicineProject\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\ProductModel.cs",
+              "RelativeToolTip": "MedicineProject\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:04:32.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MedicineProject\\appsettings.json",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\appsettings.json",
+              "RelativeToolTip": "MedicineProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T08:06:23.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicineProject.csproj",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\MedicineProject.csproj",
+              "RelativeDocumentMoniker": "MedicineProject\\MedicineProject.csproj",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\MedicineProject.csproj",
+              "RelativeToolTip": "MedicineProject\\MedicineProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T08:21:20.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250105084201_initial.cs",
+              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Migrations\\20250105084201_initial.cs",
+              "RelativeDocumentMoniker": "MedicineProject\\Migrations\\20250105084201_initial.cs",
+              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Migrations\\20250105084201_initial.cs",
+              "RelativeToolTip": "MedicineProject\\Migrations\\20250105084201_initial.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:42:02.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CartItemModel.cs",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\CartItemModel.cs",
               "RelativeDocumentMoniker": "MedicineProject\\Models\\CartItemModel.cs",
               "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\CartItemModel.cs",
               "RelativeToolTip": "MedicineProject\\Models\\CartItemModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T12:13:27.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T12:13:27.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "AddressModel.cs",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\AddressModel.cs",
               "RelativeDocumentMoniker": "MedicineProject\\Models\\AddressModel.cs",
@@ -201,12 +315,11 @@
               "RelativeToolTip": "MedicineProject\\Models\\AddressModel.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T08:13:41.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T08:13:41.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MedicineProject\\Models\\ErrorViewModel.cs",
@@ -218,19 +331,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "font-icons.css",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\css\\font-icons.css",
               "RelativeDocumentMoniker": "MedicineProject\\wwwroot\\utils_client\\css\\font-icons.css",
               "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\css\\font-icons.css",
               "RelativeToolTip": "MedicineProject\\wwwroot\\utils_client\\css\\font-icons.css",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwBYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-04T03:10:37.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MedicineProject\\Views\\Shared\\_Layout.cshtml",
@@ -242,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "OrderList.cshtml",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\AdminPages\\OrderList.cshtml",
               "RelativeDocumentMoniker": "MedicineProject\\Views\\AdminPages\\OrderList.cshtml",
@@ -254,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\AdminPages\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "MedicineProject\\Views\\AdminPages\\Dashboard.cshtml",
@@ -266,31 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryList.cshtml",
-              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\AdminPages\\CategoryList.cshtml",
-              "RelativeDocumentMoniker": "MedicineProject\\Views\\AdminPages\\CategoryList.cshtml",
-              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\AdminPages\\CategoryList.cshtml",
-              "RelativeToolTip": "MedicineProject\\Views\\AdminPages\\CategoryList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-04T02:13:08.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "MedicineProject\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "MedicineProject\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-04T02:12:04.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "plugins.css",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_client\\css\\plugins.css",
               "RelativeDocumentMoniker": "MedicineProject\\wwwroot\\utils_client\\css\\plugins.css",
@@ -302,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "icons.min.css",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\css\\icons.min.css",
               "RelativeDocumentMoniker": "MedicineProject\\wwwroot\\utils_admin\\css\\icons.min.css",
@@ -314,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "ProductList.cshtml",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Views\\AdminPages\\ProductList.cshtml",
               "RelativeDocumentMoniker": "MedicineProject\\Views\\AdminPages\\ProductList.cshtml",
@@ -326,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "index.html",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\clone\\index.html",
               "RelativeDocumentMoniker": "MedicineProject\\wwwroot\\clone\\index.html",
@@ -338,27 +427,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "sweet-alert.init.js",
               "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\pages\\sweet-alert.init.js",
               "RelativeDocumentMoniker": "MedicineProject\\wwwroot\\utils_admin\\pages\\sweet-alert.init.js",
               "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\pages\\sweet-alert.init.js",
               "RelativeToolTip": "MedicineProject\\wwwroot\\utils_admin\\pages\\sweet-alert.init.js",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAAJ8AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAI0AAAAAAAAAAIBZwJ8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-01-04T03:17:35.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AdminPagesController.cs",
-              "DocumentMoniker": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Controllers\\AdminPagesController.cs",
-              "RelativeDocumentMoniker": "MedicineProject\\Controllers\\AdminPagesController.cs",
-              "ToolTip": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\Controllers\\AdminPagesController.cs",
-              "RelativeToolTip": "MedicineProject\\Controllers\\AdminPagesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T02:25:57.036Z"
             }
           ]
         }

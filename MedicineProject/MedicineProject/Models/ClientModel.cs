@@ -27,5 +27,15 @@ namespace MedicineProject.Models
         public string Email { get; set; }
         [Required]
         public byte Role { get; set; }
+
+        public void HashPassword(string password)
+        {
+            this.Password = BCrypt.Net.BCrypt.HashPassword(password);
+        }
+
+        public bool VerifyPassword(string password)
+        {
+            return BCrypt.Net.BCrypt.Verify(password, this.Password);
+        }
     }
 }
