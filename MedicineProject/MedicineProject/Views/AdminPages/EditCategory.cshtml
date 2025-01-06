@@ -2,7 +2,8 @@
     ViewData["Title"] = "AccountDetails";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
-@model MedicineProject.Models.ViewModels.AddCategoryViewModel
+@model MedicineProject.Models.CategoryModel
+
 <div class="page-wrapper">
 
     <!-- Page Content-->
@@ -12,8 +13,12 @@
             <!-- Page-Title -->
             <div class="row">
                 <div class="col-sm-12">
-                    <h1>Add Category</h1>
+                    <h1>Edit Category</h1>
                     <form method="post">
+                        <div class="form-group">
+                            <label for="exampleInputText">Category ID</label>
+                            <input type="text" class="form-control" id="exampleInputText1" asp-for="Id" readonly>
+                        </div>
                         <div class="form-group">
                             <label for="exampleInputText">Category Name</label>
                             <input type="text" class="form-control" id="exampleInputText1" asp-for="Name">
@@ -31,7 +36,7 @@
                 </div><!--end col-->
             </div>
             <!-- end page title end breadcrumb -->
-            
+
 
         </div><!-- container -->
         <!--Start Rightbar-->

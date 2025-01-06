@@ -64,6 +64,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYWdlc1xEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/MedicineWebsite/MedicineProject/MedicineProject/Views/AdminPages/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYWdlc1xFZGl0Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/MedicineWebsite/MedicineProject/MedicineProject/Views/AdminPages/OrderList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYWdlc1xPcmRlckxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

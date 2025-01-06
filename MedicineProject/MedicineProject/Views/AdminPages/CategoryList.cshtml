@@ -2,7 +2,7 @@
     ViewData["Title"] = "AccountDetails";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
-
+@model List<MedicineProject.Models.CategoryModel>
 <div class="page-wrapper">
 
     <!-- Page Content-->
@@ -24,7 +24,7 @@
                                 <li class="breadcrumb-item active">List</li>
                             </ol>
                         </div>
-                        <h4 class="page-title">Product List</h4>
+                        <h4 class="page-title">Category List</h4>
                     </div><!--end page-title-box-->
                 </div><!--end col-->
             </div>
@@ -33,289 +33,39 @@
                 <div class="col-12">
                     <div class="card">
                         <div class="card-body">
+                            <div class="col">
+                                <a class="btn btn-outline-primary btn-sm px-4" asp-action="AddCategory" asp-controller="AdminPages">Add New Category</a>
+                            </div><!--end col-->
                             <div class="table-responsive">
                                 <table class="table table-bordered">
                                     <thead>
                                         <tr>
-                                            <th>Product Name</th>
-                                            <th>Category</th>
-                                            <th>Pics</th>
-                                            <th>Price</th>
-                                            <th>Status</th>
-                                            <th>Avai.Color</th>
+                                            <th>Category ID</th>
+                                            <th>Category Name</th>
+                                            <th>Description</th>
+                                            <th>Parent ID</th>
                                             <th>Action</th>
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr>
-                                            <td>
-                                                <img src="~/utils_admin/img/products/04.png" alt="" height="40">
-                                                <p class="d-inline-block align-middle mb-0">
-                                                    <a href="#" class="d-inline-block align-middle mb-0 product-name fw-semibold">Apple Watch</a>
-                                                    <br>
-                                                    <span class="text-muted font-13 fw-semibold">Size-05 (Model 2021)</span>
-                                                </p>
-                                            </td>
-                                            <td>Sports</td>
-                                            <td>32</td>
-                                            <td>$39</td>
-                                            <td><span class="badge badge-soft-purple">Stock</span></td>
-                                            <td>
-                                                <ul class="list-inline mb-0">
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-danger"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-dark"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
-                                                </ul>
-                                            </td>
-                                            <td>
-                                                <a href="#" class="mr-2"><i class="las la-pen text-secondary font-16"></i></a>
-                                                <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <img src="~/utils_admin/img/products/01.png" alt="" height="40">
-                                                <p class="d-inline-block align-middle mb-0">
-                                                    <a href="#" class="d-inline-block align-middle mb-0 product-name fw-semibold">Morden Chair</a>
-                                                    <br>
-                                                    <span class="text-muted font-13 fw-semibold">Size-Mediam (Model 2021)</span>
-                                                </p>
-                                            </td>
-                                            <td>Interior</td>
-                                            <td>10</td>
-                                            <td>$99</td>
-                                            <td><span class="badge badge-soft-pink">Sold</span></td>
-                                            <td>
-                                                <ul class="list-inline mb-0">
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-danger"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
-                                                </ul>
-                                            </td>
-                                            <td>
-                                                <a href="#" class="mr-2"><i class="las la-pen text-secondary font-16"></i></a>
-                                                <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <img src="~/utils_admin/img/products/05.png" alt="" height="40">
-                                                <p class="d-inline-block align-middle mb-0">
-                                                    <a href="#" class="d-inline-block align-middle mb-0 product-name fw-semibold">Reebok Shoes</a>
-                                                    <br>
-                                                    <span class="text-muted font-13 fw-semibold">size-08 (Model 2021)</span>
-                                                </p>
-                                            </td>
-                                            <td>Footwear</td>
-                                            <td>24</td>
-                                            <td>$49</td>
-                                            <td><span class="badge badge-soft-purple">Stock</span></td>
-                                            <td>
-                                                <ul class="list-inline mb-0">
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-danger"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-dark"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
-                                                </ul>
-                                            </td>
-                                            <td>
-                                                <a href="#" class="mr-2"><i class="las la-pen text-secondary font-16"></i></a>
-                                                <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <img src="~/utils_admin/img/products/06.png" alt="" height="40">
-                                                <p class="d-inline-block align-middle mb-0">
-                                                    <a href="#" class="d-inline-block align-middle mb-0 product-name fw-semibold">Cosco Vollyboll</a>
-                                                    <br>
-                                                    <span class="text-muted font-13 fw-semibold">size-04 (Model 2021)</span>
-                                                </p>
-                                            </td>
-                                            <td>Sports</td>
-                                            <td>8</td>
-                                            <td>$49</td>
-                                            <td><span class="badge badge-soft-purple">Stock</span></td>
-                                            <td>
-                                                <ul class="list-inline mb-0">
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-dark"></i></li>
-                                                </ul>
-                                            </td>
-                                            <td>
-                                                <a href="#" class="mr-2"><i class="las la-pen text-secondary font-16"></i></a>
-                                                <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <img src="~/utils_admin/img/products/04.png" alt="" height="40">
-                                                <p class="d-inline-block align-middle mb-0">
-                                                    <a href="#" class="d-inline-block align-middle mb-0 product-name fw-semibold">Royal Purse</a>
-                                                    <br>
-                                                    <span class="text-muted font-13 fw-semibold">Pure Lether 100%</span>
-                                                </p>
-                                            </td>
-                                            <td>Life Style</td>
-                                            <td>52</td>
-                                            <td>$89</td>
-                                            <td><span class="badge badge-soft-purple">Stock</span></td>
-                                            <td>
-                                                <ul class="list-inline mb-0">
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-danger"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-dark"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
-                                                </ul>
-                                            </td>
-                                            <td>
-                                                <a href="#" class="mr-2"><i class="las la-pen text-secondary font-16"></i></a>
-                                                <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <img src="~/utils_admin/img/products/03.png" alt="" height="40">
-                                                <p class="d-inline-block align-middle mb-0">
-                                                    <a href="#" class="d-inline-block align-middle mb-0 product-name fw-semibold">New Morden Chair</a>
-                                                    <br>
-                                                    <span class="text-muted font-13 fw-semibold">size-05 (Model 2021)</span>
-                                                </p>
-                                            </td>
-                                            <td>Interior</td>
-                                            <td>6</td>
-                                            <td>$20</td>
-                                            <td><span class="badge badge-soft-purple">Stock</span></td>
-                                            <td>
-                                                <ul class="list-inline mb-0">
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-dark"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
-                                                </ul>
-                                            </td>
-                                            <td>
-                                                <a href="#" class="mr-2"><i class="las la-pen text-secondary font-16"></i></a>
-                                                <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <img src="~/utils_admin/img/products/02.png" alt="" height="40">
-                                                <p class="d-inline-block align-middle mb-0">
-                                                    <a href="#" class="d-inline-block align-middle mb-0 product-name fw-semibold">Important Chair</a>
-                                                    <br>
-                                                    <span class="text-muted font-13 fw-semibold">size-05 (Model 2021)</span>
-                                                </p>
-                                            </td>
-                                            <td>Interior</td>
-                                            <td>32</td>
-                                            <td>$39</td>
-                                            <td><span class="badge badge-soft-purple">Stock</span></td>
-                                            <td>
-                                                <ul class="list-inline mb-0">
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-danger"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-dark"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
-                                                </ul>
-                                            </td>
-                                            <td>
-                                                <a href="#" class="mr-2"><i class="las la-pen text-secondary font-16"></i></a>
-                                                <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
-                                            </td>
-                                        </tr>
-
-                                        <tr>
-                                            <td>
-                                                <img src="~/utils_admin/img/products/02.png" alt="" height="40">
-                                                <p class="d-inline-block align-middle mb-0">
-                                                    <a href="#" class="d-inline-block align-middle mb-0 product-name fw-semibold">Nivya Footboll</a>
-                                                    <br>
-                                                    <span class="text-muted font-13 fw-semibold">Size-05 (Model 2021)</span>
-                                                </p>
-                                            </td>
-                                            <td>Sports</td>
-                                            <td>32</td>
-                                            <td>$39</td>
-                                            <td><span class="badge badge-soft-purple">Stock</span></td>
-                                            <td>
-                                                <ul class="list-inline mb-0">
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-danger"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-dark"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
-                                                </ul>
-                                            </td>
-                                            <td>
-                                                <a href="#" class="mr-2"><i class="las la-pen text-secondary font-16"></i></a>
-                                                <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <img src="~/utils_admin/img/products/01.png" alt="" height="40">
-                                                <p class="d-inline-block align-middle mb-0">
-                                                    <a href="#" class="d-inline-block align-middle mb-0 product-name fw-semibold">Green Morden Chair</a>
-                                                    <br>
-                                                    <span class="text-muted font-13 fw-semibold">Size-Mediam (Model 2021)</span>
-                                                </p>
-                                            </td>
-                                            <td>Interior</td>
-                                            <td>10</td>
-                                            <td>$99</td>
-                                            <td><span class="badge badge-soft-pink">Sold</span></td>
-                                            <td>
-                                                <ul class="list-inline mb-0">
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-danger"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
-                                                </ul>
-                                            </td>
-                                            <td>
-                                                <a href="#" class="mr-2"><i class="las la-pen text-secondary font-16"></i></a>
-                                                <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <img src="~/utils_admin/img/products/01.png" alt="" height="40">
-                                                <p class="d-inline-block align-middle mb-0">
-                                                    <a href="#" class="d-inline-block align-middle mb-0 product-name fw-semibold">Bata Shoes</a>
-                                                    <br>
-                                                    <span class="text-muted font-13 fw-semibold">size-08 (Model 2021)</span>
-                                                </p>
-                                            </td>
-                                            <td>Footwear</td>
-                                            <td>24</td>
-                                            <td>$49</td>
-                                            <td><span class="badge badge-soft-purple">Stock</span></td>
-                                            <td>
-                                                <ul class="list-inline mb-0">
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-danger"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-dark"></i></li>
-                                                    <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
-                                                </ul>
-                                            </td>
-                                            <td>
-                                                <a href="#" class="mr-2"><i class="las la-pen text-secondary font-16"></i></a>
-                                                <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
-                                            </td>
-                                        </tr>
+                                        @foreach (var category in Model)
+                                        {
+                                            <tr>
+                                                <td>@category.Id</td>
+                                                <td>@category.Name</td>
+                                                <td>@category.Description</td>
+                                                <td>@category.ParentID</td>
+                                                <td>
+                                                    <a asp-action="EditCategory" asp-controller="AdminPages" asp-route-id="@category.Id" class="mr-2"><i class="las la-pen text-secondary font-16"></i></a>
+                                                    <a onclick="deleteCategory(@category.Id)"><i class="las la-trash-alt text-secondary font-16"></i></a>
+                                                </td>
+                                            </tr>
+                                        }
                                     </tbody>
                                 </table>
                             </div>
                             <div class="row">
-                                <div class="col">
-                                    <button class="btn btn-outline-light btn-sm px-4 ">+ Add New</button>
-                                </div><!--end col-->
+                                
                                 <div class="col-auto">
                                     <nav aria-label="...">
                                         <ul class="pagination pagination-sm mb-0">

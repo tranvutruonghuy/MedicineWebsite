@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xu74d+OKwBrwss/R0HwSHLVKowgIMNiN1cSGH+bKWR0=",
+  "Hash": "mbLTCBJXmf+vfk4WMPrDGMScjOyGICSgZ/winKyjMVk=",
   "Source": "MedicineProject",
   "BasePath": "_content/MedicineProject",
   "Mode": "Default",
@@ -4005,6 +4005,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\utils_admin\\js\\app.js"
+    },
+    {
+      "Identity": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\js\\myScript.js",
+      "SourceId": "MedicineProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\",
+      "BasePath": "_content/MedicineProject",
+      "RelativePath": "utils_admin/js/myScript#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "laglz2554n",
+      "Integrity": "vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\utils_admin\\js\\myScript.js"
     },
     {
       "Identity": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\pages\\analytics-customers.init.js",
@@ -25591,6 +25612,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-1UqFMcSOXOP/iq6Tk6l1ZMeefDrk1tWG+8osX9xn21c="
+        }
+      ]
+    },
+    {
+      "Route": "utils_admin/js/myScript.js",
+      "AssetFile": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\js\\myScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 16:32:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw="
+        }
+      ]
+    },
+    {
+      "Route": "utils_admin/js/myScript.laglz2554n.js",
+      "AssetFile": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\js\\myScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 16:32:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "laglz2554n"
+        },
+        {
+          "Name": "label",
+          "Value": "utils_admin/js/myScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw="
         }
       ]
     },

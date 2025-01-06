@@ -757,6 +757,10 @@
       "PackagePath": "staticwebassets\\utils_admin\\js\\app.js"
     },
     {
+      "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\js\\myScript.js",
+      "PackagePath": "staticwebassets\\utils_admin\\js\\myScript.js"
+    },
+    {
       "Id": "C:\\MedicineWebsite\\MedicineProject\\MedicineProject\\wwwroot\\utils_admin\\pages\\analytics-customers.init.js",
       "PackagePath": "staticwebassets\\utils_admin\\pages\\analytics-customers.init.js"
     },

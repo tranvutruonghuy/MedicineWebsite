@@ -2268,6 +2268,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1UqFMcSOXOP/iq6Tk6l1ZMeefDrk1tWG\u002B8osX9xn21c="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"216910"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00221UqFMcSOXOP/iq6Tk6l1ZMeefDrk1tWG\u002B8osX9xn21c=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 Aug 2024 08:40:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/utils_admin/js/myScript.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\utils_admin\js\myScript.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"320"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 16:32:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/utils_admin/js/myScript.laglz2554n.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\utils_admin\js\myScript.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"laglz2554n"},{"Name":"integrity","Value":"sha256-vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw="},{"Name":"label","Value":"_content/MedicineProject/utils_admin/js/myScript.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"320"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 16:32:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MedicineProject/utils_admin/pages/analytics-customers.init.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\utils_admin\pages\analytics-customers.init.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

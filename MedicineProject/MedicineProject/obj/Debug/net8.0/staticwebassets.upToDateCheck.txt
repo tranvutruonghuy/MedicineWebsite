@@ -186,6 +186,7 @@ wwwroot\utils_admin\img\users\user-7.jpg
 wwwroot\utils_admin\img\users\user-8.jpg
 wwwroot\utils_admin\img\users\user-9.jpg
 wwwroot\utils_admin\js\app.js
+wwwroot\utils_admin\js\myScript.js
 wwwroot\utils_admin\pages\analytics-customers.init.js
 wwwroot\utils_admin\pages\analytics-index.init.js
 wwwroot\utils_admin\pages\analytics-report.init.js

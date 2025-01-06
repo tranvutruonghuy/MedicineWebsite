@@ -15501,6 +15501,88 @@
       ]
     },
     {
+      "Route": "utils_admin/js/myScript.js",
+      "AssetFile": "utils_admin/js/myScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 16:32:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw="
+        }
+      ]
+    },
+    {
+      "Route": "utils_admin/js/myScript.laglz2554n.js",
+      "AssetFile": "utils_admin/js/myScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 16:32:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "laglz2554n"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw="
+        },
+        {
+          "Name": "label",
+          "Value": "utils_admin/js/myScript.js"
+        }
+      ]
+    },
+    {
       "Route": "utils_admin/pages/analytics-customers.init.js",
       "AssetFile": "utils_admin/pages/analytics-customers.init.js",
       "Selectors": [],
