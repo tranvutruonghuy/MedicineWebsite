@@ -1,0 +1,158 @@
+﻿@{
+    ViewData["Title"] = "AddProduct";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    var categories = ViewBag.Categories as IEnumerable<CategoryModel>;
+}
+@model MedicineProject.Models.ViewModels.EditProductViewModel
+<div class="page-wrapper">
+
+    <!-- Page Content-->
+    <div class="page-content-tab">
+
+        <div class="container-fluid">
+            <!-- Page-Title -->
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1>Add Product</h1>
+                    <form method="post" enctype="multipart/form-data">
+                        <div>
+                            <h6>General Information</h6>
+                            <div class="form-group">
+                                <label for="exampleInputText">Product ID</label>
+                                <input type="text" class="form-control" id="exampleInputText1" asp-for="Id" readonly>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputText">Product Name</label>
+                                <input type="text" class="form-control" id="exampleInputText1" asp-for="Name">
+                            </div>
+                            <div class="input-group mb-3">
+                                <div class="input-group-prepend">
+                                    <label class="input-group-text" for="inputGroupSelect01">Belongs Category</label>
+                                </div>
+                                <select class="custom-select" id="inputGroupSelect01" asp-for="CategoryId">
+                                    @foreach (var category in categories)
+                                    {
+                                        <option value="@category.Id">@category.Name</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleFormControlTextarea1">Short Description</label>
+                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" asp-for="ShortDescription"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleFormControlTextarea1">Product Detail</label>
+                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" asp-for="Description"></textarea>
+                            </div>
+                        </div>
+                        <div>
+                            <h6>Inventory</h6>
+                            <div class="app-form">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label">Unit</label>
+                                            <input type="text" class="form-control" id="unit" asp-for="Unit">
+                                            @* <p id="unit-error" class="error-text" style="display: none;">Please fill in the field</p> *@
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label">Quantity</label>
+                                            <input type="text" class="form-control" id="quantity" asp-for="InStock">
+                                            @* <p id="quantity-error" class="error-text">Please fill in the field</p> *@
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <h6>Product Media</h6>
+                            <div class="preview">
+                                <input accept="image/*" class="app-file-upload addproduct file-input" type="file" id="addProduct" multiple="multiple" data-allow-reorder="true" asp-for="Photo">
+                                @* <img id="img-preview" src="" /> *@
+                            </div>
+                        </div>
+                        <div>
+                            <h6>Price</h6>
+                            <div class="app-form">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="mb-3">
+                                            <label class="form-label">Price</label>
+                                            <div class="input-group mb-3">
+                                                <span class="input-group-text b-r-left" id="basic-addon1">$</span>
+                                                <input type="text" class="form-control b-r-right" id="price" aria-label="Username" aria-describedby="basic-addon1" asp-for="Price">
+
+                                            </div>
+                                        </div>
+                                        <p id="price-error" class="error-text">Please fill in the field</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div><!--end col-->
+            </div>
+            <!-- end page title end breadcrumb -->
+
+
+        </div><!-- container -->
+        <!--Start Rightbar-->
+        <!--Start Rightbar/offcanvas-->
+        <div class="offcanvas offcanvas-end" tabindex="-1" id="Appearance" aria-labelledby="AppearanceLabel">
+            <div class="offcanvas-header border-bottom">
+                <h5 class="m-0 font-14" id="AppearanceLabel">Appearance</h5>
+                <button type="button" class="btn-close text-reset p-0 m-0 align-self-center" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <h6>Account Settings</h6>
+                <div class="p-2 text-start mt-3">
+                    <div class="form-check form-switch mb-2">
+                        <input class="form-check-input" type="checkbox" id="settings-switch1">
+                        <label class="form-check-label" for="settings-switch1">Auto updates</label>
+                    </div><!--end form-switch-->
+                    <div class="form-check form-switch mb-2">
+                        <input class="form-check-input" type="checkbox" id="settings-switch2" checked>
+                        <label class="form-check-label" for="settings-switch2">Location Permission</label>
+                    </div><!--end form-switch-->
+                    <div class="form-check form-switch">
+                        <input class="form-check-input" type="checkbox" id="settings-switch3">
+                        <label class="form-check-label" for="settings-switch3">Show offline Contacts</label>
+                    </div><!--end form-switch-->
+                </div><!--end /div-->
+                <h6>General Settings</h6>
+                <div class="p-2 text-start mt-3">
+                    <div class="form-check form-switch mb-2">
+                        <input class="form-check-input" type="checkbox" id="settings-switch4">
+                        <label class="form-check-label" for="settings-switch4">Show me Online</label>
+                    </div><!--end form-switch-->
+                    <div class="form-check form-switch mb-2">
+                        <input class="form-check-input" type="checkbox" id="settings-switch5" checked>
+                        <label class="form-check-label" for="settings-switch5">Status visible to all</label>
+                    </div><!--end form-switch-->
+                    <div class="form-check form-switch">
+                        <input class="form-check-input" type="checkbox" id="settings-switch6">
+                        <label class="form-check-label" for="settings-switch6">Notifications Popup</label>
+                    </div><!--end form-switch-->
+                </div><!--end /div-->
+            </div><!--end offcanvas-body-->
+        </div>
+        <!--end Rightbar/offcanvas-->
+        <!--end Rightbar-->
+        <!--Start Footer-->
+        <!-- Footer Start -->
+        <footer class="footer text-center text-sm-start">
+            &copy; <script>
+                       document.write(new Date().getFullYear())
+            </script> Unikit <span class="text-muted d-none d-sm-inline-block float-end">
+                Crafted with <i class="mdi mdi-heart text-danger"></i> by Mannatthemes
+            </span>
+        </footer>
+        <!-- end Footer -->
+        <!--end footer-->
+    </div>
+    <!-- end page content -->
+</div>
+<!-- end page-wrapper -->

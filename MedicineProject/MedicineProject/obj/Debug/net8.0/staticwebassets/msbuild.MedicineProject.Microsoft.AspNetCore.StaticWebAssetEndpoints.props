@@ -12,6 +12,162 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l72i6ko1ft"},{"Name":"integrity","Value":"sha256-T87JRCwuX7H8quLLE\u002BpE5oDLGpR488MV21SDzBZbBzs="},{"Name":"label","Value":"_content/MedicineProject/clone/index.html"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"584743"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022T87JRCwuX7H8quLLE\u002BpE5oDLGpR488MV21SDzBZbBzs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 10:09:35 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-17-07_Mixing fragrance oils from different formulas.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-17-07_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:17:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-17-07_Mixing fragrance oils from different formulas.skhp0mfqw8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-17-07_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"skhp0mfqw8"},{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_17-17-07_Mixing fragrance oils from different formulas.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:17:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-18-09_Mixing fragrance oils from different formulas.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-18-09_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:18:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-18-09_Mixing fragrance oils from different formulas.skhp0mfqw8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-18-09_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"skhp0mfqw8"},{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_17-18-09_Mixing fragrance oils from different formulas.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:18:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-21-28_Mixing fragrance oils from different formulas.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-21-28_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:21:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-21-28_Mixing fragrance oils from different formulas.skhp0mfqw8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-21-28_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"skhp0mfqw8"},{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_17-21-28_Mixing fragrance oils from different formulas.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:21:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-26-55_Mixing fragrance oils from different formulas.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-26-55_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:26:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-26-55_Mixing fragrance oils from different formulas.skhp0mfqw8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-26-55_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"skhp0mfqw8"},{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_17-26-55_Mixing fragrance oils from different formulas.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:26:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-27-19_Mixing fragrance oils from different formulas.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-27-19_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:27:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-27-19_Mixing fragrance oils from different formulas.skhp0mfqw8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-27-19_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"skhp0mfqw8"},{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_17-27-19_Mixing fragrance oils from different formulas.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:27:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-30-10_Mixing fragrance oils from different formulas.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-30-10_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:30:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-30-10_Mixing fragrance oils from different formulas.skhp0mfqw8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-30-10_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"skhp0mfqw8"},{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_17-30-10_Mixing fragrance oils from different formulas.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:30:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-30-37_Mixing fragrance oils from different formulas.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-30-37_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:30:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-30-37_Mixing fragrance oils from different formulas.skhp0mfqw8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-30-37_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"skhp0mfqw8"},{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_17-30-37_Mixing fragrance oils from different formulas.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:30:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-30-44_Mixing fragrance oils from different formulas.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-30-44_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:30:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-30-44_Mixing fragrance oils from different formulas.skhp0mfqw8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-30-44_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"skhp0mfqw8"},{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_17-30-44_Mixing fragrance oils from different formulas.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:30:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-33-12_Mixing fragrance oils from different formulas.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-33-12_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:33:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-33-12_Mixing fragrance oils from different formulas.skhp0mfqw8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-33-12_Mixing fragrance oils from different formulas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"skhp0mfqw8"},{"Name":"integrity","Value":"sha256-PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_17-33-12_Mixing fragrance oils from different formulas.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"178601"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:33:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-34-30_a green heart with a black heart beat goes through.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-34-30_a green heart with a black heart beat goes through.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dc9zAO9l1AGQVZngUfC1FbiXS57lSiT7FSyIB0lBNGk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"110954"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dc9zAO9l1AGQVZngUfC1FbiXS57lSiT7FSyIB0lBNGk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:34:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_17-34-30_a green heart with a black heart beat goes through.zezlm5w21l.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-34-30_a green heart with a black heart beat goes through.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zezlm5w21l"},{"Name":"integrity","Value":"sha256-dc9zAO9l1AGQVZngUfC1FbiXS57lSiT7FSyIB0lBNGk="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_17-34-30_a green heart with a black heart beat goes through.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"110954"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dc9zAO9l1AGQVZngUfC1FbiXS57lSiT7FSyIB0lBNGk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 10:34:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_21-25-04_346097911_237308618895923_1376699252834728586_n.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_21-25-04_346097911_237308618895923_1376699252834728586_n.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uvu1rl9lAfVJhdn1FSkxXysZNgLGc40g7DFHtZdn8bU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"302826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uvu1rl9lAfVJhdn1FSkxXysZNgLGc40g7DFHtZdn8bU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 14:25:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_21-25-04_346097911_237308618895923_1376699252834728586_n.qcbp2dqbe5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_21-25-04_346097911_237308618895923_1376699252834728586_n.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qcbp2dqbe5"},{"Name":"integrity","Value":"sha256-uvu1rl9lAfVJhdn1FSkxXysZNgLGc40g7DFHtZdn8bU="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_21-25-04_346097911_237308618895923_1376699252834728586_n.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"302826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uvu1rl9lAfVJhdn1FSkxXysZNgLGc40g7DFHtZdn8bU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 14:25:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_21-27-51_346097911_237308618895923_1376699252834728586_n.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_21-27-51_346097911_237308618895923_1376699252834728586_n.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uvu1rl9lAfVJhdn1FSkxXysZNgLGc40g7DFHtZdn8bU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"302826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uvu1rl9lAfVJhdn1FSkxXysZNgLGc40g7DFHtZdn8bU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 14:27:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_21-27-51_346097911_237308618895923_1376699252834728586_n.qcbp2dqbe5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_21-27-51_346097911_237308618895923_1376699252834728586_n.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qcbp2dqbe5"},{"Name":"integrity","Value":"sha256-uvu1rl9lAfVJhdn1FSkxXysZNgLGc40g7DFHtZdn8bU="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_21-27-51_346097911_237308618895923_1376699252834728586_n.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"302826"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uvu1rl9lAfVJhdn1FSkxXysZNgLGc40g7DFHtZdn8bU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 14:27:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_21-28-23_dbf7138ac7967ec82787.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_21-28-23_dbf7138ac7967ec82787.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-v\u002BdiqxFL21AUrauHlyIH/pHcTB7JmKWmkVTFupBL2zw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"355902"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022v\u002BdiqxFL21AUrauHlyIH/pHcTB7JmKWmkVTFupBL2zw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 14:28:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/img/2025-01-07_21-28-23_dbf7138ac7967ec82787.vkxv0rmazc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_21-28-23_dbf7138ac7967ec82787.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vkxv0rmazc"},{"Name":"integrity","Value":"sha256-v\u002BdiqxFL21AUrauHlyIH/pHcTB7JmKWmkVTFupBL2zw="},{"Name":"label","Value":"_content/MedicineProject/img/2025-01-07_21-28-23_dbf7138ac7967ec82787.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"355902"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022v\u002BdiqxFL21AUrauHlyIH/pHcTB7JmKWmkVTFupBL2zw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 14:28:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MedicineProject/lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -2268,17 +2424,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1UqFMcSOXOP/iq6Tk6l1ZMeefDrk1tWG\u002B8osX9xn21c="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"216910"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00221UqFMcSOXOP/iq6Tk6l1ZMeefDrk1tWG\u002B8osX9xn21c=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 Aug 2024 08:40:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MedicineProject/utils_admin/js/myScript.1sm4vrmhs2.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\utils_admin\js\myScript.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1sm4vrmhs2"},{"Name":"integrity","Value":"sha256-r0ixObhkU/P02yO6XrEymB1HFdTyNgdXyrEUvMdktMo="},{"Name":"label","Value":"_content/MedicineProject/utils_admin/js/myScript.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"297"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022r0ixObhkU/P02yO6XrEymB1HFdTyNgdXyrEUvMdktMo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 11:44:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MedicineProject/utils_admin/js/myScript.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\utils_admin\js\myScript.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"320"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 16:32:13 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/MedicineProject/utils_admin/js/myScript.laglz2554n.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\utils_admin\js\myScript.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"laglz2554n"},{"Name":"integrity","Value":"sha256-vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw="},{"Name":"label","Value":"_content/MedicineProject/utils_admin/js/myScript.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"320"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 16:32:13 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r0ixObhkU/P02yO6XrEymB1HFdTyNgdXyrEUvMdktMo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"297"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022r0ixObhkU/P02yO6XrEymB1HFdTyNgdXyrEUvMdktMo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 11:44:06 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MedicineProject/utils_admin/pages/analytics-customers.init.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\utils_admin\pages\analytics-customers.init.js'))</AssetFile>

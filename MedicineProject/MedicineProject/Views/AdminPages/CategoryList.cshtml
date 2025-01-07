@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "AccountDetails";
+    ViewData["Title"] = "CategoryList";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 @model List<MedicineProject.Models.CategoryModel>
@@ -57,7 +57,7 @@
                                                 <td>@category.ParentID</td>
                                                 <td>
                                                     <a asp-action="EditCategory" asp-controller="AdminPages" asp-route-id="@category.Id" class="mr-2"><i class="las la-pen text-secondary font-16"></i></a>
-                                                    <a onclick="deleteCategory(@category.Id)"><i class="las la-trash-alt text-secondary font-16"></i></a>
+                                                    <a onclick="deleteForm(@category.Id, '/AdminPages/DeleteCategory/')"><i class="las la-trash-alt text-secondary font-16"></i></a>
                                                 </td>
                                             </tr>
                                         }

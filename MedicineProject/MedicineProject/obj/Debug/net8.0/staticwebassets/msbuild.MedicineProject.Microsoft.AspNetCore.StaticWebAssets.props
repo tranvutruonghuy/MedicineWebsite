@@ -18,6 +18,240 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\clone\index.html'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-17-07_Mixing fragrance oils from different formulas.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_17-17-07_Mixing fragrance oils from different formulas.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>skhp0mfqw8</Fingerprint>
+      <Integrity>PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-17-07_Mixing fragrance oils from different formulas.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-18-09_Mixing fragrance oils from different formulas.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_17-18-09_Mixing fragrance oils from different formulas.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>skhp0mfqw8</Fingerprint>
+      <Integrity>PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-18-09_Mixing fragrance oils from different formulas.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-21-28_Mixing fragrance oils from different formulas.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_17-21-28_Mixing fragrance oils from different formulas.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>skhp0mfqw8</Fingerprint>
+      <Integrity>PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-21-28_Mixing fragrance oils from different formulas.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-26-55_Mixing fragrance oils from different formulas.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_17-26-55_Mixing fragrance oils from different formulas.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>skhp0mfqw8</Fingerprint>
+      <Integrity>PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-26-55_Mixing fragrance oils from different formulas.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-27-19_Mixing fragrance oils from different formulas.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_17-27-19_Mixing fragrance oils from different formulas.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>skhp0mfqw8</Fingerprint>
+      <Integrity>PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-27-19_Mixing fragrance oils from different formulas.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-30-10_Mixing fragrance oils from different formulas.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_17-30-10_Mixing fragrance oils from different formulas.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>skhp0mfqw8</Fingerprint>
+      <Integrity>PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-30-10_Mixing fragrance oils from different formulas.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-30-37_Mixing fragrance oils from different formulas.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_17-30-37_Mixing fragrance oils from different formulas.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>skhp0mfqw8</Fingerprint>
+      <Integrity>PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-30-37_Mixing fragrance oils from different formulas.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-30-44_Mixing fragrance oils from different formulas.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_17-30-44_Mixing fragrance oils from different formulas.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>skhp0mfqw8</Fingerprint>
+      <Integrity>PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-30-44_Mixing fragrance oils from different formulas.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-33-12_Mixing fragrance oils from different formulas.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_17-33-12_Mixing fragrance oils from different formulas.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>skhp0mfqw8</Fingerprint>
+      <Integrity>PK1wDcE7dSVNqJFGGFQTGHEbojyyW672i2IzJzCFkNA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-33-12_Mixing fragrance oils from different formulas.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-34-30_a green heart with a black heart beat goes through.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_17-34-30_a green heart with a black heart beat goes through.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zezlm5w21l</Fingerprint>
+      <Integrity>dc9zAO9l1AGQVZngUfC1FbiXS57lSiT7FSyIB0lBNGk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_17-34-30_a green heart with a black heart beat goes through.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_21-25-04_346097911_237308618895923_1376699252834728586_n.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_21-25-04_346097911_237308618895923_1376699252834728586_n.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qcbp2dqbe5</Fingerprint>
+      <Integrity>uvu1rl9lAfVJhdn1FSkxXysZNgLGc40g7DFHtZdn8bU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_21-25-04_346097911_237308618895923_1376699252834728586_n.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_21-27-51_346097911_237308618895923_1376699252834728586_n.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_21-27-51_346097911_237308618895923_1376699252834728586_n.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qcbp2dqbe5</Fingerprint>
+      <Integrity>uvu1rl9lAfVJhdn1FSkxXysZNgLGc40g7DFHtZdn8bU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_21-27-51_346097911_237308618895923_1376699252834728586_n.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_21-28-23_dbf7138ac7967ec82787.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MedicineProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MedicineProject</BasePath>
+      <RelativePath>img/2025-01-07_21-28-23_dbf7138ac7967ec82787.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vkxv0rmazc</Fingerprint>
+      <Integrity>v+diqxFL21AUrauHlyIH/pHcTB7JmKWmkVTFupBL2zw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2025-01-07_21-28-23_dbf7138ac7967ec82787.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css'))">
       <SourceType>Package</SourceType>
       <SourceId>MedicineProject</SourceId>
@@ -3414,8 +3648,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>laglz2554n</Fingerprint>
-      <Integrity>vSCoy1ObMjYy6OWuNF2QkJE/3clHhwZusv9gZCjETNw=</Integrity>
+      <Fingerprint>1sm4vrmhs2</Fingerprint>
+      <Integrity>r0ixObhkU/P02yO6XrEymB1HFdTyNgdXyrEUvMdktMo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\utils_admin\js\myScript.js'))</OriginalItemSpec>
